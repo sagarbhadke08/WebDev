@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #f0ffff;
+}
+
+h2{
+margin-left: 38%;
+margin-top: 15px;
+}
+/* html{
+    background-color: #f0ffff;
+} */
+
+#container{
+    margin-top: 25px;
+    margin-left: 40%;
+}
+
+#submit-data-button{
+    margin-top: 10px;
+    margin-left: 45%;
+    font-size: 19px;
+    border-radius: 7px;
+    padding: 7px;
+}
+
+#Dob{
+  padding-top: 13px;;
+}
+.title{
+    font-size: 25px;
+    color: blue;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.ipbox{
+    padding-top: 10px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+#value{
+    font-display: bold;
+}
+
+table{
+    border-collapse: collapse;
+    margin: 50px auto;
+    width: 50%
+}
+table, th, td{
+    border: 2px solid black;
+    font-size: 20px;
+}
